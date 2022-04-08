@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SFMBa01029956
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning unix
+- 🌱 I’m currently learning C#
