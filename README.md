@@ -2,4 +2,4 @@
 
 - 👋 Hi, I’m @SFMBa01029956
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Computer Graphics
